@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vV3Wuo+EPNYYK9VJrtg7KaedWC/H7yZSVULONtSW2E0=",
+  "Source": "TaskManager_With_DotNetCore",
+  "BasePath": "_content/TaskManager_With_DotNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

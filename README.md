@@ -145,3 +145,40 @@ Response: Returns a success message if deleted.
 
 ---
 
+## Error Handling
+
+- **201 Created:** Task created successfully.
+  
+- **400 Bad Request:** Invalid request data.
+
+- **404 Not Found:** Task not found.
+
+- **500 Internal Server Error:** Server encountered an unexpected error.
+
+
+## Sample Data for Testing
+
+Use the following JSON to populate your database with sample tasks:
+
+```
+[
+  {
+    "title": "Task 1",
+    "description": "Description 1",
+    "dueDate": "2025-01-20T09:00:00Z",
+    "priority": "High",
+    "status": "Pending",
+    "category": "Work"
+  },
+  {
+    "title": "Task 2",
+    "description": "Description 2",
+    "dueDate": "2025-01-22T12:00:00Z",
+    "priority": "Medium",
+    "status": "In Progress",
+    "category": "Personal"
+  }
+]
+```
+
+
